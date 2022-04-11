@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="change_Board.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="delete_node.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="input.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="insert_first.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="move_word.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowGame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="word_process.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowElement.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="All_word.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="delete_snode.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Record.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Weffect.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStart.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="init.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting_prac.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelChallange.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainMenu.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="word_process.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="node_struct.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="insert_first.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="delete_node.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="change_Board.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="move_word.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowGame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Record.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowElement.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="All_word.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="delete_snode.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Weffect.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStart.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="practice.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="init.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting_prac.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelChallange.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RecordEasy.txt" />
+    <None Include="RecordHard.txt" />
+    <None Include="RecordLevel.txt" />
+    <None Include="RecordNormal.txt" />
+    <None Include="Words.txt" />
+    <None Include="WordsENG.txt" />
+  </ItemGroup>
+</Project>
